@@ -225,6 +225,7 @@ void mainMenu()
 
 int main()
 {
+    printf("hello how are you ");
     mainMenu();
     if (value == 1)
     {
